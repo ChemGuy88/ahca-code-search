@@ -1,0 +1,369 @@
+rowNum,target,path,detection,line,context
+0,testme.xlsx,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\test file spikes\testme\testme.xlsx,False,nan,None
+1,testme.txt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\test file spikes\testme\testme.txt,False,nan,None
+2,testme.sql,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\test file spikes\testme\testme.sql,False,nan,None
+3,testme.py,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\test file spikes\testme\testme.py,False,nan,None
+4,testme2.xlsx,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\test file spikes\testme2.xlsx,False,nan,None
+5,testme2.txt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\test file spikes\testme2.txt,False,nan,None
+6,testme2.sql,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\test file spikes\testme2.sql,False,nan,None
+7,testme2.py,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\test file spikes\testme2.py,False,nan,None
+8,testme.xlsx,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\test file spikes\testme.xlsx,False,nan,None
+9,testme.txt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\test file spikes\testme.txt,False,nan,None
+10,testme.sql,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\test file spikes\testme.sql,False,nan,None
+11,testme.py,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\test file spikes\testme.py,False,nan,None
+12,testme,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\test file spikes\testme,False,nan,None
+13,README.txt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\sslCertForGit\README.txt,False,nan,None
+14,ca-bundle.crt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\sslCertForGit\ca-bundle.crt,True,111,ZCzJJ7VLkn5l/9Mt4blOvH+kQSGQQXemOR/qnuOf0GZvBeyqdn6/axag67XH/JJU\n
+15,ca-bundle.crt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\sslCertForGit\ca-bundle.crt,True,160,# AffirmTrust Premium\n
+16,ca-bundle.crt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\sslCertForGit\ca-bundle.crt,True,184,0jlzCFfemQa0W50QBuHCAKi4HEoCChTQwUHK+4w1IX2COPKpVJEZNZOUbWo6xbLQ\n
+17,ca-bundle.crt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\sslCertForGit\ca-bundle.crt,True,193,# AffirmTrust Premium ECC\n
+18,ca-bundle.crt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\sslCertForGit\ca-bundle.crt,True,211,ADA5MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRkwFwYDVQQDExBBbWF6\n
+19,ca-bundle.crt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\sslCertForGit\ca-bundle.crt,True,213,MAkGA1UEBhMCVVMxDzANBgNVBAoTBkFtYXpvbjEZMBcGA1UEAxMQQW1hem9uIFJv\n
+20,ca-bundle.crt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\sslCertForGit\ca-bundle.crt,True,233,ADA5MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRkwFwYDVQQDExBBbWF6\n
+21,ca-bundle.crt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\sslCertForGit\ca-bundle.crt,True,235,MAkGA1UEBhMCVVMxDzANBgNVBAoTBkFtYXpvbjEZMBcGA1UEAxMQQW1hem9uIFJv\n
+22,ca-bundle.crt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\sslCertForGit\ca-bundle.crt,True,266,MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRkwFwYDVQQDExBBbWF6b24g\n
+23,ca-bundle.crt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\sslCertForGit\ca-bundle.crt,True,268,A1UEBhMCVVMxDzANBgNVBAoTBkFtYXpvbjEZMBcGA1UEAxMQQW1hem9uIFJvb3Qg\n
+24,ca-bundle.crt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\sslCertForGit\ca-bundle.crt,True,280,MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRkwFwYDVQQDExBBbWF6b24g\n
+25,ca-bundle.crt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\sslCertForGit\ca-bundle.crt,True,282,A1UEBhMCVVMxDzANBgNVBAoTBkFtYXpvbjEZMBcGA1UEAxMQQW1hem9uIFJvb3Qg\n
+26,ca-bundle.crt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\sslCertForGit\ca-bundle.crt,True,416,ZLya9vrVediQYkwiL944PdbgqOkcLNt4EemOaFEVcsfzM4fkoF0LXOBXByow9c3E\n
+27,ca-bundle.crt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\sslCertForGit\ca-bundle.crt,True,597,WjB+MQswCQYDVQQGEwJQTDEiMCAGA1UEChMZVW5pemV0byBUZWNobm9sb2dpZXMg\n
+28,ca-bundle.crt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\sslCertForGit\ca-bundle.crt,True,609,I9MA4GxWL+FpDQ3Zqr8hgVDZBqWo/5U30Kr+4rP1mS1FhIrlQgnXdAIv94nYmem8\n
+29,ca-bundle.crt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\sslCertForGit\ca-bundle.crt,True,622,VW5pemV0byBUZWNobm9sb2dpZXMgUy5BLjEnMCUGA1UECxMeQ2VydHVtIENlcnRp\n
+30,ca-bundle.crt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\sslCertForGit\ca-bundle.crt,True,640,XN40hz5BsA72udY/CROWFC/emh1auVbONTqwX3BNXuMp8SMoclm2q8KMZiYcdywm\n
+31,ca-bundle.crt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\sslCertForGit\ca-bundle.crt,True,700,5gN/ikilTWh1uem8nk4ZcfUyS5xtYBkL+8ydddy/Js2Pk3g5eXNeJQ7KXOt3EgfL\n
+32,ca-bundle.crt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\sslCertForGit\ca-bundle.crt,True,769,+2dtQem8Ob0y2WIC8bGoPW43nOIv4tOiJovGuFVDiOEjPqXSJDlqR6sA1KGzqSX+\n
+33,ca-bundle.crt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\sslCertForGit\ca-bundle.crt,True,774,QXV0aG9yaXR5LmNybDANBgkqhkiG9w0BAQUFAAOCAQEAPpiem/Yb6dc5t3iuHXIY\n
+34,ca-bundle.crt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\sslCertForGit\ca-bundle.crt,True,785,MIICiTCCAg+gAwIBAgIQH0evqmIAcFBUTAGem2OZKjAKBggqhkjOPQQDAzCBhTEL\n
+35,ca-bundle.crt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\sslCertForGit\ca-bundle.crt,True,1122,QlB50JQ+awwAvthrDk4q7D7SzIKiGGUzE3eeml0aE9jD2z3Il3rucO2n5nzbcc8t\n
+36,ca-bundle.crt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\sslCertForGit\ca-bundle.crt,True,1137,# emSign ECC Root CA - C3\n
+37,ca-bundle.crt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\sslCertForGit\ca-bundle.crt,True,1153,# emSign ECC Root CA - G3\n
+38,ca-bundle.crt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\sslCertForGit\ca-bundle.crt,True,1170,# emSign Root CA - C1\n
+39,ca-bundle.crt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\sslCertForGit\ca-bundle.crt,True,1193,# emSign Root CA - G1\n
+40,ca-bundle.crt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\sslCertForGit\ca-bundle.crt,True,1217,# Entrust.net Premium 2048 Secure Server CA\n
+41,ca-bundle.crt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\sslCertForGit\ca-bundle.crt,True,1414,aWxpxZ9pbSBUZWtub2xvamlsZXJpIHZlIEhpem1ldGxlcmkgQS7Fni4xJjAkBgNV\n
+42,ca-bundle.crt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\sslCertForGit\ca-bundle.crt,True,1419,em1ldGxlcmkgQS7Fni4xJjAkBgNVBAsMHUUtVHVncmEgU2VydGlmaWthc3lvbiBN\n
+43,ca-bundle.crt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\sslCertForGit\ca-bundle.crt,True,1555,kPoUVy0D7O48027KqGx2vKLeuwIgJ6iFJzWbVsaj8kfSt24bAgAXqmemFZHe+pTs\n
+44,ca-bundle.crt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\sslCertForGit\ca-bundle.crt,True,1760,E3PYJ/HQcu51OyLemGhmW/HGY0dVHLqlCFF1pkgl\n
+45,ca-bundle.crt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\sslCertForGit\ca-bundle.crt,True,1773,XvAuMC6C/Pq8tBcKSOWIm8Wba96wyrQD8Nr0kLhlZPdcTK3ofmZemde4wj7I0BOd\n
+46,ca-bundle.crt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\sslCertForGit\ca-bundle.crt,True,1826,# Hellenic Academic and Research Institutions ECC RootCA 2015\n
+47,ca-bundle.crt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\sslCertForGit\ca-bundle.crt,True,1845,# Hellenic Academic and Research Institutions RootCA 2011\n
+48,ca-bundle.crt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\sslCertForGit\ca-bundle.crt,True,1872,# Hellenic Academic and Research Institutions RootCA 2015\n
+49,ca-bundle.crt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\sslCertForGit\ca-bundle.crt,True,1941,dem1p+/l6TWZ5Mwc50tfjTMwIDNT2aa71T4Tjukfh0mtUC1Qyhi+AViiE3CWu4mI\n
+50,ca-bundle.crt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\sslCertForGit\ca-bundle.crt,True,2063,emyPxgcYxn/eR44/KJ4EBs+lVDR3veyJm+kXQ99b21/+jh5Xos1AnX5iItreGCc=\n
+51,ca-bundle.crt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\sslCertForGit\ca-bundle.crt,True,2259,6fRZZXe1eltajSU24HqXLjjAV2CDmAaDn7l2em5Q4LqILPxFzBiwmZVRDuwduIj/\n
+52,ca-bundle.crt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\sslCertForGit\ca-bundle.crt,True,2471,7ucp2sNbtrCD2dDQ4iH782CnO11gUyeim/YIIirnv6By5ZwkajGxkHon24QRiSem\n
+53,ca-bundle.crt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\sslCertForGit\ca-bundle.crt,True,2495,ra1AdHkrAj80//ogaX3T7mH1urPnMNA3I4ZyYUUpSFlob3emLoG+B01vr87ERROR\n
+54,ca-bundle.crt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\sslCertForGit\ca-bundle.crt,True,2698,79qGn5nX67evaOI5JpS6aLe/g9Pqemc9YmeuJeVy6OLk7K4S9ksrPJ/psEDzOFSz\n
+55,ca-bundle.crt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\sslCertForGit\ca-bundle.crt,True,2719,CemB+vNH06NjMGEwHQYDVR0OBBYEFILRhXMw5zUE044CkvvlpNHEIejNMA8GA1Ud\n
+56,ca-bundle.crt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\sslCertForGit\ca-bundle.crt,True,2784,2dfOWBfoqSmuc0iH55vKbimhZF8ZE/euBhD/UcabTVUlT5OZEAFTdfETzsemQUHS\n
+57,ca-bundle.crt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\sslCertForGit\ca-bundle.crt,True,2918,emA8atufK+ze3gE/bk3lUIbLtK/tREDFylqM2tIrfKjuvqblCqoOpd8FUrdVxyJd\n
+58,ca-bundle.crt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\sslCertForGit\ca-bundle.crt,True,2922,FGkOpeUDDniOJihC8AcLYiAQZzlG+qkDzAQ4embvIIO1jEpWjpEA/I5cgt6IoMPi\n
+59,ca-bundle.crt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\sslCertForGit\ca-bundle.crt,True,2939,Qc8Bsem4yWb02ybzOqR08kkkW8mw0FfB+j564ZfJ\n
+60,ca-bundle.crt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\sslCertForGit\ca-bundle.crt,True,2970,em1ZqSqPe97Dh4kQmUlzeMg9vVE1dCrV8X5pGyq7O70luJpaPXJhkGaH7gzWTdQR\n
+61,ca-bundle.crt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\sslCertForGit\ca-bundle.crt,True,2983,cmFqb3dhIEl6YmEgUm96bGljemVuaW93YSBTLkEuMRgwFgYDVQQDDA9TWkFGSVIg\n
+62,ca-bundle.crt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\sslCertForGit\ca-bundle.crt,True,3029,SK236thZiNSQvxaz2emsWWFUyBy6ysHK4bkgTI86k4mloMy/0/Z1pHWWbVY=\n
+63,ca-bundle.crt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\sslCertForGit\ca-bundle.crt,True,3044,BoJA6LHip1GnHYMma6ve+heRK9jGrB6xnhkB1Zem6g23xFUfJ3zSCNV2HykVh0A5\n
+64,ca-bundle.crt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\sslCertForGit\ca-bundle.crt,True,3174,sLFUzt5sQa0WZ37b/TjNuThOssFgy50X31ieemKyJo90lZvkWx3SD92YHJtZuSPT\n
+65,ca-bundle.crt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\sslCertForGit\ca-bundle.crt,True,3277,EwJUUjEYMBYGA1UEBxMPR2ViemUgLSBLb2NhZWxpMUIwQAYDVQQKEzlUdXJraXll\n
+66,ca-bundle.crt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\sslCertForGit\ca-bundle.crt,True,3478,U2lnbiwgSW5jLiAtIEZvciBhdXRob3JpemVkIHVzZSBvbmx5MTgwNgYDVQQDEy9W\n
+67,targetsToDo.txt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\searches\2022-05-13-14-46-40\targetsToDo.txt,False,nan,None
+68,targetdir.txt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\searches\2022-05-13-14-46-40\targetdir.txt,False,nan,None
+69,results-4.txt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\searches\2022-05-13-14-46-40\results-4.txt,False,nan,None
+70,results-3.txt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\searches\2022-05-13-14-46-40\results-3.txt,False,nan,None
+71,results-2.txt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\searches\2022-05-13-14-46-40\results-2.txt,True,16,14,ca-bundle.crt,\\\\hq3hfsvip01\\autoreh\\Assignments\\Code Search - Provider EM Code Distribution\\sslCertForGit\\ca-bundle.crt,True,111,ZCzJJ7VLkn5l/9Mt4blOvH+kQSGQQXemOR/qnuOf0GZvBeyqdn6/axag67XH/JJU\\n\n
+72,results-2.txt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\searches\2022-05-13-14-46-40\results-2.txt,True,17,15,ca-bundle.crt,\\\\hq3hfsvip01\\autoreh\\Assignments\\Code Search - Provider EM Code Distribution\\sslCertForGit\\ca-bundle.crt,True,160,# AffirmTrust Premium\\n\n
+73,results-2.txt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\searches\2022-05-13-14-46-40\results-2.txt,True,18,16,ca-bundle.crt,\\\\hq3hfsvip01\\autoreh\\Assignments\\Code Search - Provider EM Code Distribution\\sslCertForGit\\ca-bundle.crt,True,184,0jlzCFfemQa0W50QBuHCAKi4HEoCChTQwUHK+4w1IX2COPKpVJEZNZOUbWo6xbLQ\\n\n
+74,results-2.txt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\searches\2022-05-13-14-46-40\results-2.txt,True,19,17,ca-bundle.crt,\\\\hq3hfsvip01\\autoreh\\Assignments\\Code Search - Provider EM Code Distribution\\sslCertForGit\\ca-bundle.crt,True,193,# AffirmTrust Premium ECC\\n\n
+75,results-2.txt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\searches\2022-05-13-14-46-40\results-2.txt,True,20,18,ca-bundle.crt,\\\\hq3hfsvip01\\autoreh\\Assignments\\Code Search - Provider EM Code Distribution\\sslCertForGit\\ca-bundle.crt,True,211,ADA5MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRkwFwYDVQQDExBBbWF6\\n\n
+76,results-2.txt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\searches\2022-05-13-14-46-40\results-2.txt,True,21,19,ca-bundle.crt,\\\\hq3hfsvip01\\autoreh\\Assignments\\Code Search - Provider EM Code Distribution\\sslCertForGit\\ca-bundle.crt,True,213,MAkGA1UEBhMCVVMxDzANBgNVBAoTBkFtYXpvbjEZMBcGA1UEAxMQQW1hem9uIFJv\\n\n
+77,results-2.txt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\searches\2022-05-13-14-46-40\results-2.txt,True,22,20,ca-bundle.crt,\\\\hq3hfsvip01\\autoreh\\Assignments\\Code Search - Provider EM Code Distribution\\sslCertForGit\\ca-bundle.crt,True,233,ADA5MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRkwFwYDVQQDExBBbWF6\\n\n
+78,results-2.txt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\searches\2022-05-13-14-46-40\results-2.txt,True,23,21,ca-bundle.crt,\\\\hq3hfsvip01\\autoreh\\Assignments\\Code Search - Provider EM Code Distribution\\sslCertForGit\\ca-bundle.crt,True,235,MAkGA1UEBhMCVVMxDzANBgNVBAoTBkFtYXpvbjEZMBcGA1UEAxMQQW1hem9uIFJv\\n\n
+79,results-2.txt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\searches\2022-05-13-14-46-40\results-2.txt,True,24,22,ca-bundle.crt,\\\\hq3hfsvip01\\autoreh\\Assignments\\Code Search - Provider EM Code Distribution\\sslCertForGit\\ca-bundle.crt,True,266,MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRkwFwYDVQQDExBBbWF6b24g\\n\n
+80,results-2.txt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\searches\2022-05-13-14-46-40\results-2.txt,True,25,23,ca-bundle.crt,\\\\hq3hfsvip01\\autoreh\\Assignments\\Code Search - Provider EM Code Distribution\\sslCertForGit\\ca-bundle.crt,True,268,A1UEBhMCVVMxDzANBgNVBAoTBkFtYXpvbjEZMBcGA1UEAxMQQW1hem9uIFJvb3Qg\\n\n
+81,results-2.txt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\searches\2022-05-13-14-46-40\results-2.txt,True,26,24,ca-bundle.crt,\\\\hq3hfsvip01\\autoreh\\Assignments\\Code Search - Provider EM Code Distribution\\sslCertForGit\\ca-bundle.crt,True,280,MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRkwFwYDVQQDExBBbWF6b24g\\n\n
+82,results-2.txt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\searches\2022-05-13-14-46-40\results-2.txt,True,27,25,ca-bundle.crt,\\\\hq3hfsvip01\\autoreh\\Assignments\\Code Search - Provider EM Code Distribution\\sslCertForGit\\ca-bundle.crt,True,282,A1UEBhMCVVMxDzANBgNVBAoTBkFtYXpvbjEZMBcGA1UEAxMQQW1hem9uIFJvb3Qg\\n\n
+83,results-2.txt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\searches\2022-05-13-14-46-40\results-2.txt,True,28,26,ca-bundle.crt,\\\\hq3hfsvip01\\autoreh\\Assignments\\Code Search - Provider EM Code Distribution\\sslCertForGit\\ca-bundle.crt,True,416,ZLya9vrVediQYkwiL944PdbgqOkcLNt4EemOaFEVcsfzM4fkoF0LXOBXByow9c3E\\n\n
+84,results-2.txt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\searches\2022-05-13-14-46-40\results-2.txt,True,29,27,ca-bundle.crt,\\\\hq3hfsvip01\\autoreh\\Assignments\\Code Search - Provider EM Code Distribution\\sslCertForGit\\ca-bundle.crt,True,597,WjB+MQswCQYDVQQGEwJQTDEiMCAGA1UEChMZVW5pemV0byBUZWNobm9sb2dpZXMg\\n\n
+85,results-2.txt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\searches\2022-05-13-14-46-40\results-2.txt,True,30,28,ca-bundle.crt,\\\\hq3hfsvip01\\autoreh\\Assignments\\Code Search - Provider EM Code Distribution\\sslCertForGit\\ca-bundle.crt,True,609,I9MA4GxWL+FpDQ3Zqr8hgVDZBqWo/5U30Kr+4rP1mS1FhIrlQgnXdAIv94nYmem8\\n\n
+86,results-2.txt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\searches\2022-05-13-14-46-40\results-2.txt,True,31,29,ca-bundle.crt,\\\\hq3hfsvip01\\autoreh\\Assignments\\Code Search - Provider EM Code Distribution\\sslCertForGit\\ca-bundle.crt,True,622,VW5pemV0byBUZWNobm9sb2dpZXMgUy5BLjEnMCUGA1UECxMeQ2VydHVtIENlcnRp\\n\n
+87,results-2.txt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\searches\2022-05-13-14-46-40\results-2.txt,True,32,30,ca-bundle.crt,\\\\hq3hfsvip01\\autoreh\\Assignments\\Code Search - Provider EM Code Distribution\\sslCertForGit\\ca-bundle.crt,True,640,XN40hz5BsA72udY/CROWFC/emh1auVbONTqwX3BNXuMp8SMoclm2q8KMZiYcdywm\\n\n
+88,results-2.txt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\searches\2022-05-13-14-46-40\results-2.txt,True,33,31,ca-bundle.crt,\\\\hq3hfsvip01\\autoreh\\Assignments\\Code Search - Provider EM Code Distribution\\sslCertForGit\\ca-bundle.crt,True,700,5gN/ikilTWh1uem8nk4ZcfUyS5xtYBkL+8ydddy/Js2Pk3g5eXNeJQ7KXOt3EgfL\\n\n
+89,results-2.txt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\searches\2022-05-13-14-46-40\results-2.txt,True,34,32,ca-bundle.crt,\\\\hq3hfsvip01\\autoreh\\Assignments\\Code Search - Provider EM Code Distribution\\sslCertForGit\\ca-bundle.crt,True,769,+2dtQem8Ob0y2WIC8bGoPW43nOIv4tOiJovGuFVDiOEjPqXSJDlqR6sA1KGzqSX+\\n\n
+90,results-2.txt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\searches\2022-05-13-14-46-40\results-2.txt,True,35,33,ca-bundle.crt,\\\\hq3hfsvip01\\autoreh\\Assignments\\Code Search - Provider EM Code Distribution\\sslCertForGit\\ca-bundle.crt,True,774,QXV0aG9yaXR5LmNybDANBgkqhkiG9w0BAQUFAAOCAQEAPpiem/Yb6dc5t3iuHXIY\\n\n
+91,results-2.txt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\searches\2022-05-13-14-46-40\results-2.txt,True,36,34,ca-bundle.crt,\\\\hq3hfsvip01\\autoreh\\Assignments\\Code Search - Provider EM Code Distribution\\sslCertForGit\\ca-bundle.crt,True,785,MIICiTCCAg+gAwIBAgIQH0evqmIAcFBUTAGem2OZKjAKBggqhkjOPQQDAzCBhTEL\\n\n
+92,results-2.txt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\searches\2022-05-13-14-46-40\results-2.txt,True,37,35,ca-bundle.crt,\\\\hq3hfsvip01\\autoreh\\Assignments\\Code Search - Provider EM Code Distribution\\sslCertForGit\\ca-bundle.crt,True,1122,QlB50JQ+awwAvthrDk4q7D7SzIKiGGUzE3eeml0aE9jD2z3Il3rucO2n5nzbcc8t\\n\n
+93,results-2.txt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\searches\2022-05-13-14-46-40\results-2.txt,True,38,36,ca-bundle.crt,\\\\hq3hfsvip01\\autoreh\\Assignments\\Code Search - Provider EM Code Distribution\\sslCertForGit\\ca-bundle.crt,True,1137,# emSign ECC Root CA - C3\\n\n
+94,results-2.txt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\searches\2022-05-13-14-46-40\results-2.txt,True,39,37,ca-bundle.crt,\\\\hq3hfsvip01\\autoreh\\Assignments\\Code Search - Provider EM Code Distribution\\sslCertForGit\\ca-bundle.crt,True,1153,# emSign ECC Root CA - G3\\n\n
+95,results-2.txt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\searches\2022-05-13-14-46-40\results-2.txt,True,40,38,ca-bundle.crt,\\\\hq3hfsvip01\\autoreh\\Assignments\\Code Search - Provider EM Code Distribution\\sslCertForGit\\ca-bundle.crt,True,1170,# emSign Root CA - C1\\n\n
+96,results-2.txt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\searches\2022-05-13-14-46-40\results-2.txt,True,41,39,ca-bundle.crt,\\\\hq3hfsvip01\\autoreh\\Assignments\\Code Search - Provider EM Code Distribution\\sslCertForGit\\ca-bundle.crt,True,1193,# emSign Root CA - G1\\n\n
+97,results-2.txt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\searches\2022-05-13-14-46-40\results-2.txt,True,42,40,ca-bundle.crt,\\\\hq3hfsvip01\\autoreh\\Assignments\\Code Search - Provider EM Code Distribution\\sslCertForGit\\ca-bundle.crt,True,1217,# Entrust.net Premium 2048 Secure Server CA\\n\n
+98,results-2.txt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\searches\2022-05-13-14-46-40\results-2.txt,True,43,41,ca-bundle.crt,\\\\hq3hfsvip01\\autoreh\\Assignments\\Code Search - Provider EM Code Distribution\\sslCertForGit\\ca-bundle.crt,True,1414,aWxpxZ9pbSBUZWtub2xvamlsZXJpIHZlIEhpem1ldGxlcmkgQS7Fni4xJjAkBgNV\\n\n
+99,results-2.txt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\searches\2022-05-13-14-46-40\results-2.txt,True,44,42,ca-bundle.crt,\\\\hq3hfsvip01\\autoreh\\Assignments\\Code Search - Provider EM Code Distribution\\sslCertForGit\\ca-bundle.crt,True,1419,em1ldGxlcmkgQS7Fni4xJjAkBgNVBAsMHUUtVHVncmEgU2VydGlmaWthc3lvbiBN\\n\n
+100,results-2.txt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\searches\2022-05-13-14-46-40\results-2.txt,True,45,43,ca-bundle.crt,\\\\hq3hfsvip01\\autoreh\\Assignments\\Code Search - Provider EM Code Distribution\\sslCertForGit\\ca-bundle.crt,True,1555,kPoUVy0D7O48027KqGx2vKLeuwIgJ6iFJzWbVsaj8kfSt24bAgAXqmemFZHe+pTs\\n\n
+101,results-2.txt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\searches\2022-05-13-14-46-40\results-2.txt,True,46,44,ca-bundle.crt,\\\\hq3hfsvip01\\autoreh\\Assignments\\Code Search - Provider EM Code Distribution\\sslCertForGit\\ca-bundle.crt,True,1760,E3PYJ/HQcu51OyLemGhmW/HGY0dVHLqlCFF1pkgl\\n\n
+102,results-2.txt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\searches\2022-05-13-14-46-40\results-2.txt,True,47,45,ca-bundle.crt,\\\\hq3hfsvip01\\autoreh\\Assignments\\Code Search - Provider EM Code Distribution\\sslCertForGit\\ca-bundle.crt,True,1773,XvAuMC6C/Pq8tBcKSOWIm8Wba96wyrQD8Nr0kLhlZPdcTK3ofmZemde4wj7I0BOd\\n\n
+103,results-2.txt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\searches\2022-05-13-14-46-40\results-2.txt,True,48,46,ca-bundle.crt,\\\\hq3hfsvip01\\autoreh\\Assignments\\Code Search - Provider EM Code Distribution\\sslCertForGit\\ca-bundle.crt,True,1826,# Hellenic Academic and Research Institutions ECC RootCA 2015\\n\n
+104,results-2.txt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\searches\2022-05-13-14-46-40\results-2.txt,True,49,47,ca-bundle.crt,\\\\hq3hfsvip01\\autoreh\\Assignments\\Code Search - Provider EM Code Distribution\\sslCertForGit\\ca-bundle.crt,True,1845,# Hellenic Academic and Research Institutions RootCA 2011\\n\n
+105,results-2.txt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\searches\2022-05-13-14-46-40\results-2.txt,True,50,48,ca-bundle.crt,\\\\hq3hfsvip01\\autoreh\\Assignments\\Code Search - Provider EM Code Distribution\\sslCertForGit\\ca-bundle.crt,True,1872,# Hellenic Academic and Research Institutions RootCA 2015\\n\n
+106,results-2.txt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\searches\2022-05-13-14-46-40\results-2.txt,True,51,49,ca-bundle.crt,\\\\hq3hfsvip01\\autoreh\\Assignments\\Code Search - Provider EM Code Distribution\\sslCertForGit\\ca-bundle.crt,True,1941,dem1p+/l6TWZ5Mwc50tfjTMwIDNT2aa71T4Tjukfh0mtUC1Qyhi+AViiE3CWu4mI\\n\n
+107,results-2.txt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\searches\2022-05-13-14-46-40\results-2.txt,True,52,50,ca-bundle.crt,\\\\hq3hfsvip01\\autoreh\\Assignments\\Code Search - Provider EM Code Distribution\\sslCertForGit\\ca-bundle.crt,True,2063,emyPxgcYxn/eR44/KJ4EBs+lVDR3veyJm+kXQ99b21/+jh5Xos1AnX5iItreGCc=\\n\n
+108,results-2.txt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\searches\2022-05-13-14-46-40\results-2.txt,True,53,51,ca-bundle.crt,\\\\hq3hfsvip01\\autoreh\\Assignments\\Code Search - Provider EM Code Distribution\\sslCertForGit\\ca-bundle.crt,True,2259,6fRZZXe1eltajSU24HqXLjjAV2CDmAaDn7l2em5Q4LqILPxFzBiwmZVRDuwduIj/\\n\n
+109,results-2.txt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\searches\2022-05-13-14-46-40\results-2.txt,True,54,52,ca-bundle.crt,\\\\hq3hfsvip01\\autoreh\\Assignments\\Code Search - Provider EM Code Distribution\\sslCertForGit\\ca-bundle.crt,True,2471,7ucp2sNbtrCD2dDQ4iH782CnO11gUyeim/YIIirnv6By5ZwkajGxkHon24QRiSem\\n\n
+110,results-2.txt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\searches\2022-05-13-14-46-40\results-2.txt,True,55,53,ca-bundle.crt,\\\\hq3hfsvip01\\autoreh\\Assignments\\Code Search - Provider EM Code Distribution\\sslCertForGit\\ca-bundle.crt,True,2495,ra1AdHkrAj80//ogaX3T7mH1urPnMNA3I4ZyYUUpSFlob3emLoG+B01vr87ERROR\\n\n
+111,results-2.txt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\searches\2022-05-13-14-46-40\results-2.txt,True,56,54,ca-bundle.crt,\\\\hq3hfsvip01\\autoreh\\Assignments\\Code Search - Provider EM Code Distribution\\sslCertForGit\\ca-bundle.crt,True,2698,79qGn5nX67evaOI5JpS6aLe/g9Pqemc9YmeuJeVy6OLk7K4S9ksrPJ/psEDzOFSz\\n\n
+112,results-2.txt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\searches\2022-05-13-14-46-40\results-2.txt,True,57,55,ca-bundle.crt,\\\\hq3hfsvip01\\autoreh\\Assignments\\Code Search - Provider EM Code Distribution\\sslCertForGit\\ca-bundle.crt,True,2719,CemB+vNH06NjMGEwHQYDVR0OBBYEFILRhXMw5zUE044CkvvlpNHEIejNMA8GA1Ud\\n\n
+113,results-2.txt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\searches\2022-05-13-14-46-40\results-2.txt,True,58,56,ca-bundle.crt,\\\\hq3hfsvip01\\autoreh\\Assignments\\Code Search - Provider EM Code Distribution\\sslCertForGit\\ca-bundle.crt,True,2784,2dfOWBfoqSmuc0iH55vKbimhZF8ZE/euBhD/UcabTVUlT5OZEAFTdfETzsemQUHS\\n\n
+114,results-2.txt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\searches\2022-05-13-14-46-40\results-2.txt,True,59,57,ca-bundle.crt,\\\\hq3hfsvip01\\autoreh\\Assignments\\Code Search - Provider EM Code Distribution\\sslCertForGit\\ca-bundle.crt,True,2918,emA8atufK+ze3gE/bk3lUIbLtK/tREDFylqM2tIrfKjuvqblCqoOpd8FUrdVxyJd\\n\n
+115,results-2.txt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\searches\2022-05-13-14-46-40\results-2.txt,True,60,58,ca-bundle.crt,\\\\hq3hfsvip01\\autoreh\\Assignments\\Code Search - Provider EM Code Distribution\\sslCertForGit\\ca-bundle.crt,True,2922,FGkOpeUDDniOJihC8AcLYiAQZzlG+qkDzAQ4embvIIO1jEpWjpEA/I5cgt6IoMPi\\n\n
+116,results-2.txt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\searches\2022-05-13-14-46-40\results-2.txt,True,61,59,ca-bundle.crt,\\\\hq3hfsvip01\\autoreh\\Assignments\\Code Search - Provider EM Code Distribution\\sslCertForGit\\ca-bundle.crt,True,2939,Qc8Bsem4yWb02ybzOqR08kkkW8mw0FfB+j564ZfJ\\n\n
+117,results-2.txt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\searches\2022-05-13-14-46-40\results-2.txt,True,62,60,ca-bundle.crt,\\\\hq3hfsvip01\\autoreh\\Assignments\\Code Search - Provider EM Code Distribution\\sslCertForGit\\ca-bundle.crt,True,2970,em1ZqSqPe97Dh4kQmUlzeMg9vVE1dCrV8X5pGyq7O70luJpaPXJhkGaH7gzWTdQR\\n\n
+118,results-2.txt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\searches\2022-05-13-14-46-40\results-2.txt,True,63,61,ca-bundle.crt,\\\\hq3hfsvip01\\autoreh\\Assignments\\Code Search - Provider EM Code Distribution\\sslCertForGit\\ca-bundle.crt,True,2983,cmFqb3dhIEl6YmEgUm96bGljemVuaW93YSBTLkEuMRgwFgYDVQQDDA9TWkFGSVIg\\n\n
+119,results-2.txt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\searches\2022-05-13-14-46-40\results-2.txt,True,64,62,ca-bundle.crt,\\\\hq3hfsvip01\\autoreh\\Assignments\\Code Search - Provider EM Code Distribution\\sslCertForGit\\ca-bundle.crt,True,3029,SK236thZiNSQvxaz2emsWWFUyBy6ysHK4bkgTI86k4mloMy/0/Z1pHWWbVY=\\n\n
+120,results-2.txt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\searches\2022-05-13-14-46-40\results-2.txt,True,65,63,ca-bundle.crt,\\\\hq3hfsvip01\\autoreh\\Assignments\\Code Search - Provider EM Code Distribution\\sslCertForGit\\ca-bundle.crt,True,3044,BoJA6LHip1GnHYMma6ve+heRK9jGrB6xnhkB1Zem6g23xFUfJ3zSCNV2HykVh0A5\\n\n
+121,results-2.txt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\searches\2022-05-13-14-46-40\results-2.txt,True,66,64,ca-bundle.crt,\\\\hq3hfsvip01\\autoreh\\Assignments\\Code Search - Provider EM Code Distribution\\sslCertForGit\\ca-bundle.crt,True,3174,sLFUzt5sQa0WZ37b/TjNuThOssFgy50X31ieemKyJo90lZvkWx3SD92YHJtZuSPT\\n\n
+122,results-2.txt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\searches\2022-05-13-14-46-40\results-2.txt,True,67,65,ca-bundle.crt,\\\\hq3hfsvip01\\autoreh\\Assignments\\Code Search - Provider EM Code Distribution\\sslCertForGit\\ca-bundle.crt,True,3277,EwJUUjEYMBYGA1UEBxMPR2ViemUgLSBLb2NhZWxpMUIwQAYDVQQKEzlUdXJraXll\\n\n
+123,results-2.txt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\searches\2022-05-13-14-46-40\results-2.txt,True,68,66,ca-bundle.crt,\\\\hq3hfsvip01\\autoreh\\Assignments\\Code Search - Provider EM Code Distribution\\sslCertForGit\\ca-bundle.crt,True,3478,U2lnbiwgSW5jLiAtIEZvciBhdXRob3JpemVkIHVzZSBvbmx5MTgwNgYDVQQDEy9W\\n\n
+124,results-1.txt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\searches\2022-05-13-14-46-40\results-1.txt,False,nan,None
+125,keywords.txt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\searches\2022-05-13-14-46-40\keywords.txt,True,2,em\n
+126,keywordMap.txt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\searches\2022-05-13-14-46-40\keywordMap.txt,True,1,{"1": "provider", "2": "em", "3": "code", "4": "distribution"}
+127,allTargets.txt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\searches\2022-05-13-14-46-40\allTargets.txt,False,nan,None
+128,2022-05-13-14-46-40,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\searches\2022-05-13-14-46-40,False,nan,None
+129,searches,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\searches,False,nan,None
+130,script.py,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\script.py,True,2,A script to find keywords associated with the provider evaluation and management code distribution Tableau dashboard ("Provider EM Code Distribution")\n
+131,script.py,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\script.py,True,127,       db   pdf   pem\n
+132,script.py,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\script.py,True,137,    if fileType.lower() in ["", "crt", "html", "ini", "jl", "json", "pem", "py", "r", "sql", "txt", "twb"]:\n
+133,script.py,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\script.py,True,142,        # Not implemented, temp result\n
+134,script.py,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\script.py,True,142,        # Not implemented, temp result\n
+135,script.py,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\script.py,True,147,        # Not implemented, temp result\n
+136,script.py,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\script.py,True,147,        # Not implemented, temp result\n
+137,script.py,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\script.py,True,151,        # Not implemented, temp result\n
+138,script.py,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\script.py,True,151,        # Not implemented, temp result\n
+139,script.py,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\script.py,True,155,        # Not implemented, temp result\n
+140,script.py,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\script.py,True,155,        # Not implemented, temp result\n
+141,script.py,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\script.py,True,159,        # Not implemented, temp result\n
+142,script.py,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\script.py,True,159,        # Not implemented, temp result\n
+143,script.py,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\script.py,True,165,        # Not implemented, temp result\n
+144,script.py,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\script.py,True,165,        # Not implemented, temp result\n
+145,script.py,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\script.py,True,169,        # Not implemented, temp result\n
+146,script.py,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\script.py,True,169,        # Not implemented, temp result\n
+147,script.py,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\script.py,True,173,        # Not implemented, temp result\n
+148,script.py,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\script.py,True,173,        # Not implemented, temp result\n
+149,script.py,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\script.py,True,177,        # Not implemented, temp result\n
+150,script.py,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\script.py,True,177,        # Not implemented, temp result\n
+151,script.py,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\script.py,True,350,    for id, keyword in kwdi.items():\n
+152,script.py,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\script.py,True,364,    for id, keyword in kwdi.items():\n
+153,script.py,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\script.py,True,375,targetsToDopath = os.path.join(runpath, "targetsToDo.txt")  # Use truncate(path) to remove targets, use pop(path) to read the last target\n
+154,script.py,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\script.py,True,443,    for keyword2, results2 in dfdict.items():\n
+155,script.py,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\script.py,True,444,        for rowNum, li in results2.items():\n
+156,script.py,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\script.py,True,455,    # Remove path from targetsToDo.txt\n
+157,hyper.json,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\hyper.json,True,3,    "encryptionSchemeId": 0,\n
+158,hyper.json,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\hyper.json,True,41,            "memberOf": [],\n
+159,hyper.json,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\hyper.json,True,61,            "memberOf": [],\n
+160,auxil_get.py,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\auxil_get.py,True,49,        Generator item that reads the last line in a file\n
+161,auxil_get.py,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\auxil_get.py,True,50,        BETA. This is under test to see if the generator loads a file into memory or reads it each time it generates a result. This is being tested because the source file will be modified in the for-loop.\n
+162,auxil_get.py,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\auxil_get.py,True,64,    li = "BETA. This is under test to see if the generator loads a file into memory or reads it each time it generates a result. This is being tested because the source file will be modified in the for-loop.".split()\n
+163,auxil_get.py,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\auxil_get.py,True,94,        # Remove path from targetsToDo.txt\n
+164,auxil.py,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\auxil.py,True,87,        temp = True\n
+165,auxil.py,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\auxil.py,True,90,        while temp:\n
+166,auxil.py,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\auxil.py,True,93,                temp = file.read(2)\n
+167,auxil.py,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\auxil.py,True,94,                text += temp\n
+168,auxil.py,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\auxil.py,True,96,                temp = "X"\n
+169,auxil.py,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\auxil.py,True,97,                text += temp\n
+170,auxil.py,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\auxil.py,True,167,0                 FBHA Member Medicaid IDs edited 1.4.xlsx  ...    None\n
+171,auxil.py,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\auxil.py,True,168,1                                    05 91 Grp Members.txt  ...    None\n
+172,auxil.py,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code\auxil.py,True,169,2                                   05 91 Grp Members.xlsx  ...    None\n
+173,main,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\refs\heads\main,False,nan,None
+174,tags,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\refs\tags,False,nan,None
+175,heads,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\refs\heads,False,nan,None
+176,f36bc69a05d8303c497140de0d46c01a39d5d1,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\f7\f36bc69a05d8303c497140de0d46c01a39d5d1,False,nan,None
+177,49e8f4855c5f9121b7c013460d40c5f340e985,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\f6\49e8f4855c5f9121b7c013460d40c5f340e985,False,nan,None
+178,3476ed6a696e807385f640529afa7af3fcc13d,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\f5\3476ed6a696e807385f640529afa7af3fcc13d,False,nan,None
+179,c363468db736d63b304031ddc0248a01bd0b6d,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\e8\c363468db736d63b304031ddc0248a01bd0b6d,False,nan,None
+180,90b65a296050344c8cb6abb4fc06b3dddee018,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\e8\90b65a296050344c8cb6abb4fc06b3dddee018,False,nan,None
+181,583b616f11b77536c5f4e1cc1e6dec5497be65,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\e7\583b616f11b77536c5f4e1cc1e6dec5497be65,False,nan,None
+182,298c34859e625ff487a874e76590d20d4a6c9d,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\e6\298c34859e625ff487a874e76590d20d4a6c9d,False,nan,None
+183,3189bf25f06c64d442bdd7103dac2e3499bfb5,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\e4\3189bf25f06c64d442bdd7103dac2e3499bfb5,False,nan,None
+184,2429600b03321f2461ef8b1619c7d2d3ced977,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\e4\2429600b03321f2461ef8b1619c7d2d3ced977,False,nan,None
+185,8295a754cc27a196068cbb3295ef1b661d7676,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\db\8295a754cc27a196068cbb3295ef1b661d7676,False,nan,None
+186,d0cfe04b1876bd67372ced8a60ad0adb26e11e,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\da\d0cfe04b1876bd67372ced8a60ad0adb26e11e,False,nan,None
+187,cc6ba65ef432511d4b6359c97471e928254ed1,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\da\cc6ba65ef432511d4b6359c97471e928254ed1,False,nan,None
+188,8c171a310f76223b3ff0039f859a9daaff8441,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\d7\8c171a310f76223b3ff0039f859a9daaff8441,False,nan,None
+189,c37bb42c55c4ff08fc5a300f7c9dcb2d39c330,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\d2\c37bb42c55c4ff08fc5a300f7c9dcb2d39c330,False,nan,None
+190,2393299721405ad633f2f0ee56cf966dc49606,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\d2\2393299721405ad633f2f0ee56cf966dc49606,False,nan,None
+191,1d969521b6a1755cf7bba752696123830335fa,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\d1\1d969521b6a1755cf7bba752696123830335fa,False,nan,None
+192,520baef50683d5af35455d7a3ebbc9a5bedc0a,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\cc\520baef50683d5af35455d7a3ebbc9a5bedc0a,False,nan,None
+193,d804adcacd5f7304866d2d0e4b568721b19cdb,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\cb\d804adcacd5f7304866d2d0e4b568721b19cdb,False,nan,None
+194,a6a3c31109127c3583503da570aa6439e708df,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\c6\a6a3c31109127c3583503da570aa6439e708df,False,nan,None
+195,8376254d71a284316ef5020c847dfcff387086,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\c4\8376254d71a284316ef5020c847dfcff387086,False,nan,None
+196,56c67181febcebc5f34b2a4ce21382106bcba3,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\c3\56c67181febcebc5f34b2a4ce21382106bcba3,False,nan,None
+197,d2750937e26c2eb1a2fdfe2037999f1e389e9c,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\bf\d2750937e26c2eb1a2fdfe2037999f1e389e9c,False,nan,None
+198,99685e3e4ce55e9ef8ddd0675584c4a967381e,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\bf\99685e3e4ce55e9ef8ddd0675584c4a967381e,False,nan,None
+199,6200ee6ea540dafd77f7f7fa8f6270cbedece3,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\bb\6200ee6ea540dafd77f7f7fa8f6270cbedece3,False,nan,None
+200,c90f3f4119e7ce07798c2edd4bd642981c779a,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\ba\c90f3f4119e7ce07798c2edd4bd642981c779a,False,nan,None
+201,dd3dfb69255743104925be8236d94bb06dc386,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\b9\dd3dfb69255743104925be8236d94bb06dc386,False,nan,None
+202,316e0ff98acc3af102fb2bf89c35d88af12af4,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\b7\316e0ff98acc3af102fb2bf89c35d88af12af4,False,nan,None
+203,2a4870f191735613eb915a70b92a0e129e906b,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\b5\2a4870f191735613eb915a70b92a0e129e906b,False,nan,None
+204,24c73eeb8ab0dde7c5c6acff75b59d3f03834f,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\b3\24c73eeb8ab0dde7c5c6acff75b59d3f03834f,False,nan,None
+205,6e0991f867209003af6d71d58072a855a961d8,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\b0\6e0991f867209003af6d71d58072a855a961d8,False,nan,None
+206,27d37af3cff3894467782ea94d73ee3005ee6e,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\ad\27d37af3cff3894467782ea94d73ee3005ee6e,False,nan,None
+207,4d3c3ff65b507a61018e061144048884bd8a8d,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\a0\4d3c3ff65b507a61018e061144048884bd8a8d,False,nan,None
+208,7bff922c70e642794cd51ee7be2c36a3674fad,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\9c\7bff922c70e642794cd51ee7be2c36a3674fad,False,nan,None
+209,b7ba49dcec52029f858c1abfd7bb59b53ddd26,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\9a\b7ba49dcec52029f858c1abfd7bb59b53ddd26,False,nan,None
+210,6897d5bacef396091e96eba3dad16a4d0ee777,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\9a\6897d5bacef396091e96eba3dad16a4d0ee777,False,nan,None
+211,b9230f75b2d4dd63ecd53e10d140af35ab94f2,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\98\b9230f75b2d4dd63ecd53e10d140af35ab94f2,False,nan,None
+212,2ffbd7536a1099567f46c39efa56d17fd8bf11,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\94\2ffbd7536a1099567f46c39efa56d17fd8bf11,False,nan,None
+213,781bf75947ccf4a66abc50ebcba5f06af142d4,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\93\781bf75947ccf4a66abc50ebcba5f06af142d4,False,nan,None
+214,5495246adc34f06b65b6df87fd9de69dce38b1,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\8d\5495246adc34f06b65b6df87fd9de69dce38b1,False,nan,None
+215,9818223c2aa1f544a96fc0ca6d526b69ad838a,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\86\9818223c2aa1f544a96fc0ca6d526b69ad838a,False,nan,None
+216,f92761e11929cf309ddf0b2daa38507cdbd2ca,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\85\f92761e11929cf309ddf0b2daa38507cdbd2ca,False,nan,None
+217,18ff159b581a7536e65bb3d79d6706ac313471,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\7d\18ff159b581a7536e65bb3d79d6706ac313471,False,nan,None
+218,cf37d8c448e8aa0f65491b7027bed66812c2d1,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\7c\cf37d8c448e8aa0f65491b7027bed66812c2d1,False,nan,None
+219,73ffe196a133d3ed16d9a45f9cab89644b2701,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\79\73ffe196a133d3ed16d9a45f9cab89644b2701,False,nan,None
+220,d6d918845f92f2f07977e82e1386977b6d570c,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\77\d6d918845f92f2f07977e82e1386977b6d570c,False,nan,None
+221,0e593d646c9a26b52f556f02ab04a2b7d4c7e5,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\76\0e593d646c9a26b52f556f02ab04a2b7d4c7e5,False,nan,None
+222,3d17d0e5d2c54f837f2532f3fb6fc193c54649,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\6a\3d17d0e5d2c54f837f2532f3fb6fc193c54649,False,nan,None
+223,267c822d07419a6cefc1c9b73e06a3b9acbc80,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\68\267c822d07419a6cefc1c9b73e06a3b9acbc80,False,nan,None
+224,a6e375982d0481f9199aff69e377efb9da7c62,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\66\a6e375982d0481f9199aff69e377efb9da7c62,False,nan,None
+225,abede34f4062ead706ac0469cdfdca7c7e14d5,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\65\abede34f4062ead706ac0469cdfdca7c7e14d5,False,nan,None
+226,6fadfba02246cfb753bfa4be673bcc07605b69,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\64\6fadfba02246cfb753bfa4be673bcc07605b69,False,nan,None
+227,a7296c41c0dab991edcfb4a7658fe3fca42175,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\62\a7296c41c0dab991edcfb4a7658fe3fca42175,False,nan,None
+228,ce5099e91ebd9d4202abc3d46b11c1a3d167e3,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\5d\ce5099e91ebd9d4202abc3d46b11c1a3d167e3,False,nan,None
+229,4459a9df6bbba34ab7c528e6072d30c6c998c1,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\5b\4459a9df6bbba34ab7c528e6072d30c6c998c1,False,nan,None
+230,853ab66e15d5f063c8a602b4d04675e1652650,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\4f\853ab66e15d5f063c8a602b4d04675e1652650,False,nan,None
+231,2b41f7253792af5761076eeedff5b1e5bc035d,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\4f\2b41f7253792af5761076eeedff5b1e5bc035d,False,nan,None
+232,5cd467603eaaacb8ef5da8aa0c6fb31bc85915,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\4e\5cd467603eaaacb8ef5da8aa0c6fb31bc85915,False,nan,None
+233,5d86135cb03e8562db86af9dc174db03312e05,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\4d\5d86135cb03e8562db86af9dc174db03312e05,False,nan,None
+234,527f544be6b75ff240dedce2e1c6deb8cafa72,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\4d\527f544be6b75ff240dedce2e1c6deb8cafa72,False,nan,None
+235,8d57287f1fdb60f1be9b5ac0f2320c4db97009,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\4c\8d57287f1fdb60f1be9b5ac0f2320c4db97009,False,nan,None
+236,9c9c01d1592e28263b0ae5ea41be4f610a3387,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\4a\9c9c01d1592e28263b0ae5ea41be4f610a3387,False,nan,None
+237,c180a61f5fe2f957317885ceaa7b1c26878dda,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\45\c180a61f5fe2f957317885ceaa7b1c26878dda,False,nan,None
+238,de253cb5631ca947cfeda48cedef632f939356,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\41\de253cb5631ca947cfeda48cedef632f939356,False,nan,None
+239,17618b79ba3ea69cf44f3aa8851fba108a57c8,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\3e\17618b79ba3ea69cf44f3aa8851fba108a57c8,False,nan,None
+240,d90c83b16bc21b4a9c0595e037e6d221448ced,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\39\d90c83b16bc21b4a9c0595e037e6d221448ced,False,nan,None
+241,3eec5759419069537c4ff4d648d9f38b92ce73,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\35\3eec5759419069537c4ff4d648d9f38b92ce73,False,nan,None
+242,3664802d1f0cc516910209a846d597eb633cbb,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\34\3664802d1f0cc516910209a846d597eb633cbb,False,nan,None
+243,a3d20d866e2425095dc1621949c07db9cfeaf6,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\2e\a3d20d866e2425095dc1621949c07db9cfeaf6,False,nan,None
+244,eb0c81c9a87ffa057f39b77d827bd7e4ea2e7d,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\29\eb0c81c9a87ffa057f39b77d827bd7e4ea2e7d,False,nan,None
+245,dd5b05b16301cf31df12ee717c77aa1bb5a3d2,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\25\dd5b05b16301cf31df12ee717c77aa1bb5a3d2,False,nan,None
+246,9ac4aaf67c9196f50b81669b06997448d6d393,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\25\9ac4aaf67c9196f50b81669b06997448d6d393,False,nan,None
+247,7a55441f769a6833da4d05d4da17340e5d27ff,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\1d\7a55441f769a6833da4d05d4da17340e5d27ff,False,nan,None
+248,470031bec36ec49b393dec20d74f5312d404e9,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\14\470031bec36ec49b393dec20d74f5312d404e9,False,nan,None
+249,b40251bfec16373189363bd0fd2fd5373ad557,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\0c\b40251bfec16373189363bd0fd2fd5373ad557,False,nan,None
+250,1e2250c3153e7b6f58f5d67088d81d39e27b3d,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\08\1e2250c3153e7b6f58f5d67088d81d39e27b3d,False,nan,None
+251,12d7e7423a85bb5fdc1b8b474e93460737ebb2,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\08\12d7e7423a85bb5fdc1b8b474e93460737ebb2,False,nan,None
+252,f21d6e25d3d259ed0d54d16d822eed118f1c2b,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\05\f21d6e25d3d259ed0d54d16d822eed118f1c2b,False,nan,None
+253,e760607d9d95eb654098b57c23c8f2f4c51860,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\00\e760607d9d95eb654098b57c23c8f2f4c51860,False,nan,None
+254,pack,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\pack,False,nan,None
+255,info,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\info,False,nan,None
+256,f7,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\f7,False,nan,None
+257,f6,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\f6,False,nan,None
+258,f5,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\f5,False,nan,None
+259,e8,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\e8,False,nan,None
+260,e7,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\e7,False,nan,None
+261,e6,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\e6,False,nan,None
+262,e4,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\e4,False,nan,None
+263,db,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\db,False,nan,None
+264,da,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\da,False,nan,None
+265,d7,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\d7,False,nan,None
+266,d2,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\d2,False,nan,None
+267,d1,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\d1,False,nan,None
+268,cc,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\cc,False,nan,None
+269,cb,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\cb,False,nan,None
+270,c6,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\c6,False,nan,None
+271,c4,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\c4,False,nan,None
+272,c3,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\c3,False,nan,None
+273,bf,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\bf,False,nan,None
+274,bb,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\bb,False,nan,None
+275,ba,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\ba,False,nan,None
+276,b9,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\b9,False,nan,None
+277,b7,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\b7,False,nan,None
+278,b5,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\b5,False,nan,None
+279,b3,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\b3,False,nan,None
+280,b0,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\b0,False,nan,None
+281,ad,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\ad,False,nan,None
+282,a0,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\a0,False,nan,None
+283,9c,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\9c,False,nan,None
+284,9a,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\9a,False,nan,None
+285,98,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\98,False,nan,None
+286,94,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\94,False,nan,None
+287,93,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\93,False,nan,None
+288,8d,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\8d,False,nan,None
+289,86,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\86,False,nan,None
+290,85,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\85,False,nan,None
+291,7d,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\7d,False,nan,None
+292,7c,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\7c,False,nan,None
+293,79,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\79,False,nan,None
+294,77,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\77,False,nan,None
+295,76,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\76,False,nan,None
+296,6a,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\6a,False,nan,None
+297,68,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\68,False,nan,None
+298,66,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\66,False,nan,None
+299,65,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\65,False,nan,None
+300,64,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\64,False,nan,None
+301,62,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\62,False,nan,None
+302,5d,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\5d,False,nan,None
+303,5b,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\5b,False,nan,None
+304,4f,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\4f,False,nan,None
+305,4e,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\4e,False,nan,None
+306,4d,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\4d,False,nan,None
+307,4c,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\4c,False,nan,None
+308,4a,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\4a,False,nan,None
+309,45,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\45,False,nan,None
+310,41,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\41,False,nan,None
+311,3e,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\3e,False,nan,None
+312,39,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\39,False,nan,None
+313,35,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\35,False,nan,None
+314,34,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\34,False,nan,None
+315,2e,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\2e,False,nan,None
+316,29,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\29,False,nan,None
+317,25,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\25,False,nan,None
+318,1d,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\1d,False,nan,None
+319,14,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\14,False,nan,None
+320,0c,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\0c,False,nan,None
+321,08,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\08,False,nan,None
+322,05,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\05,False,nan,None
+323,00,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects\00,False,nan,None
+324,main,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\logs\refs\heads\main,False,nan,None
+325,heads,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\logs\refs\heads,False,nan,None
+326,refs,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\logs\refs,False,nan,None
+327,HEAD,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\logs\HEAD,False,nan,None
+328,exclude,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\info\exclude,True,4,# exclude patterns (uncomment them if you want to use them):\n
+329,exclude,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\info\exclude,True,4,# exclude patterns (uncomment them if you want to use them):\n
+330,update.sample,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\hooks\update.sample,False,nan,None
+331,push-to-checkout.sample,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\hooks\push-to-checkout.sample,False,nan,None
+332,prepare-commit-msg.sample,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\hooks\prepare-commit-msg.sample,False,nan,None
+333,pre-receive.sample,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\hooks\pre-receive.sample,False,nan,None
+334,pre-rebase.sample,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\hooks\pre-rebase.sample,False,nan,None
+335,pre-push.sample,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\hooks\pre-push.sample,False,nan,None
+336,pre-merge-commit.sample,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\hooks\pre-merge-commit.sample,False,nan,None
+337,pre-commit.sample,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\hooks\pre-commit.sample,False,nan,None
+338,pre-applypatch.sample,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\hooks\pre-applypatch.sample,False,nan,None
+339,post-update.sample,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\hooks\post-update.sample,False,nan,None
+340,fsmonitor-watchman.sample,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\hooks\fsmonitor-watchman.sample,False,nan,None
+341,commit-msg.sample,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\hooks\commit-msg.sample,False,nan,None
+342,applypatch-msg.sample,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\hooks\applypatch-msg.sample,False,nan,None
+343,refs,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\refs,False,nan,None
+344,objects,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\objects,False,nan,None
+345,logs,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\logs,False,nan,None
+346,info,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\info,False,nan,None
+347,index,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\index,False,nan,None
+348,hooks,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\hooks,False,nan,None
+349,HEAD,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\HEAD,False,nan,None
+350,description,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\description,False,nan,None
+351,config,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\config,True,3,\tfilemode = false\n
+352,config,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\config,True,8,[remote "origin"]\n
+353,config,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\config,True,10,\tfetch = +refs/heads/*:refs/remotes/origin/*\n
+354,COMMIT_EDITMSG,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git\COMMIT_EDITMSG,False,nan,None
+355,workspace.code-workspace,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\workspace.code-workspace,False,nan,None
+356,test file spikes,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\test file spikes,False,nan,None
+357,sslCertForGit,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\sslCertForGit,False,nan,None
+358,Report.docx - Shortcut.lnk,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\Report.docx - Shortcut.lnk,False,nan,None
+359,Report.docx,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\Report.docx,False,nan,None
+360,README.md,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\README.md,False,nan,None
+361,hq3mdavip03.search-ms,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\hq3mdavip03.search-ms,False,nan,None
+362,findstr_hq3mdavip03_results.txt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\findstr_hq3mdavip03_results.txt,False,nan,None
+363,dir_05 Project_results.txt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\dir_05 Project_results.txt,False,nan,None
+364,dir_05 Project_results 02.txt,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\dir_05 Project_results 02.txt,False,nan,None
+365,code,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\code,False,nan,None
+366,.gitignore,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.gitignore,False,nan,None
+367,.git,\\hq3hfsvip01\autoreh\Assignments\Code Search - Provider EM Code Distribution\.git,False,nan,None

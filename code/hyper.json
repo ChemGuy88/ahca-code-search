@@ -1,0 +1,603 @@
+{
+    "compressionMethod": "lz4",
+    "encryptionSchemeId": 0,
+    "databases": {
+        "dropped": true
+    },
+    "namespaces": [
+        {
+            "oid": 10001,
+            "name": "public",
+            "owner": 0,
+            "dependencies": [],
+            "reverseDependencies": []
+        },
+        {
+            "oid": 10004,
+            "name": "Extract",
+            "owner": 1,
+            "dependencies": [],
+            "reverseDependencies": []
+        }
+    ],
+    "roles": [
+        {
+            "oid": 10002,
+            "name": "",
+            "owner": 0,
+            "dependencies": [],
+            "reverseDependencies": [],
+            "superuser": false,
+            "createdb": false,
+            "createrole": false,
+            "inherit": true,
+            "login": false,
+            "replication": false,
+            "hasPassword": false,
+            "encrypted": true,
+            "connlimit": 4294967295,
+            "validUntil": 0,
+            "password": "",
+            "memberOf": [],
+            "adminOf": []
+        },
+        {
+            "oid": 10003,
+            "name": "tableau_internal_user",
+            "owner": 0,
+            "dependencies": [],
+            "reverseDependencies": [],
+            "superuser": true,
+            "createdb": false,
+            "createrole": false,
+            "inherit": true,
+            "login": true,
+            "replication": false,
+            "hasPassword": false,
+            "encrypted": true,
+            "connlimit": 4294967295,
+            "validUntil": 0,
+            "password": "",
+            "memberOf": [],
+            "adminOf": []
+        }
+    ],
+    "relations": [
+        {
+            "oid": 10005,
+            "name": "Extract",
+            "owner": 1,
+            "dependencies": [],
+            "reverseDependencies": [],
+            "parent": 33,
+            "attributes": [
+                {
+                    "name": "ICN",
+                    "type": [
+                        "Varchar",
+                        "nullable"
+                    ],
+                    "collate": "en_US_CI",
+                    "description": "{\n    \"family-name\" : \"All Claims\"\n}"
+                },
+                {
+                    "name": "Detail Number",
+                    "type": [
+                        "BigInt",
+                        "nullable"
+                    ],
+                    "description": "{\n    \"family-name\" : \"All Claims\"\n}"
+                },
+                {
+                    "name": "Claim Indicator",
+                    "type": [
+                        "Varchar",
+                        "nullable"
+                    ],
+                    "collate": "en_US_CI",
+                    "description": "{\n    \"family-name\" : \"All Claims\"\n}"
+                },
+                {
+                    "name": "Encounter Plan Denied Indicator",
+                    "type": [
+                        "Varchar",
+                        "nullable"
+                    ],
+                    "collate": "en_US_CI",
+                    "description": "{\n    \"family-name\" : \"All Claims\"\n}"
+                },
+                {
+                    "name": "Claim Header Status",
+                    "type": [
+                        "Varchar",
+                        "nullable"
+                    ],
+                    "collate": "en_US_CI",
+                    "description": "{\n    \"family-name\" : \"All Claims\"\n}"
+                },
+                {
+                    "name": "Claim Detail Status",
+                    "type": [
+                        "Varchar",
+                        "nullable"
+                    ],
+                    "collate": "en_US_CI",
+                    "description": "{\n    \"family-name\" : \"All Claims\"\n}"
+                },
+                {
+                    "name": "Claim Type & Desc",
+                    "type": [
+                        "Varchar",
+                        "nullable"
+                    ],
+                    "collate": "en_US_CI",
+                    "description": "{\n    \"family-name\" : \"All Claims\"\n}"
+                },
+                {
+                    "name": "Contract Type Code",
+                    "type": [
+                        "Varchar",
+                        "nullable"
+                    ],
+                    "collate": "en_US_CI",
+                    "description": "{\n    \"family-name\" : \"All Claims\"\n}"
+                },
+                {
+                    "name": "From Date of Service",
+                    "type": [
+                        "Date",
+                        "nullable"
+                    ],
+                    "description": "{\n    \"family-name\" : \"All Claims\"\n}"
+                },
+                {
+                    "name": "To Date of Service",
+                    "type": [
+                        "Date",
+                        "nullable"
+                    ],
+                    "description": "{\n    \"family-name\" : \"All Claims\"\n}"
+                },
+                {
+                    "name": "Claim Date",
+                    "type": [
+                        "Date",
+                        "nullable"
+                    ],
+                    "description": "{\n    \"family-name\" : \"All Claims\"\n}"
+                },
+                {
+                    "name": "Claim First Entered FMMIS Date",
+                    "type": [
+                        "Date",
+                        "nullable"
+                    ],
+                    "description": "{\n    \"family-name\" : \"All Claims\"\n}"
+                },
+                {
+                    "name": "Month",
+                    "type": [
+                        "Varchar",
+                        "nullable"
+                    ],
+                    "collate": "en_US_CI",
+                    "description": "{\n    \"family-name\" : \"All Claims\"\n}"
+                },
+                {
+                    "name": "Year",
+                    "type": [
+                        "BigInt",
+                        "nullable"
+                    ],
+                    "description": "{\n    \"family-name\" : \"All Claims\"\n}"
+                },
+                {
+                    "name": "Primary Procedure Code & Desc",
+                    "type": [
+                        "Varchar",
+                        "nullable"
+                    ],
+                    "collate": "en_US_CI",
+                    "description": "{\n    \"family-name\" : \"All Claims\"\n}"
+                },
+                {
+                    "name": "First Modifier Code",
+                    "type": [
+                        "Varchar",
+                        "nullable"
+                    ],
+                    "collate": "en_US_CI",
+                    "description": "{\n    \"family-name\" : \"All Claims\"\n}"
+                },
+                {
+                    "name": "Second Modifier Code",
+                    "type": [
+                        "Varchar",
+                        "nullable"
+                    ],
+                    "collate": "en_US_CI",
+                    "description": "{\n    \"family-name\" : \"All Claims\"\n}"
+                },
+                {
+                    "name": "Third Modifier Code",
+                    "type": [
+                        "Varchar",
+                        "nullable"
+                    ],
+                    "collate": "en_US_CI",
+                    "description": "{\n    \"family-name\" : \"All Claims\"\n}"
+                },
+                {
+                    "name": "Fourth Modifier Code",
+                    "type": [
+                        "Varchar",
+                        "nullable"
+                    ],
+                    "collate": "en_US_CI",
+                    "description": "{\n    \"family-name\" : \"All Claims\"\n}"
+                },
+                {
+                    "name": "Primary Diagnosis Code & Desc",
+                    "type": [
+                        "Varchar",
+                        "nullable"
+                    ],
+                    "collate": "en_US_CI",
+                    "description": "{\n    \"family-name\" : \"All Claims\"\n}"
+                },
+                {
+                    "name": "Secondary Diagnosis Code & Desc",
+                    "type": [
+                        "Varchar",
+                        "nullable"
+                    ],
+                    "collate": "en_US_CI",
+                    "description": "{\n    \"family-name\" : \"All Claims\"\n}"
+                },
+                {
+                    "name": "Place of Service Code & Desc",
+                    "type": [
+                        "Varchar",
+                        "nullable"
+                    ],
+                    "collate": "en_US_CI",
+                    "description": "{\n    \"family-name\" : \"All Claims\"\n}"
+                },
+                {
+                    "name": "Billing Provider Medicaid ID",
+                    "type": [
+                        "Varchar",
+                        "nullable"
+                    ],
+                    "collate": "en_US_CI",
+                    "description": "{\n    \"family-name\" : \"All Claims\"\n}"
+                },
+                {
+                    "name": "Billing Provider Name",
+                    "type": [
+                        "Varchar",
+                        "nullable"
+                    ],
+                    "collate": "en_US_CI",
+                    "description": "{\n    \"family-name\" : \"All Claims\"\n}"
+                },
+                {
+                    "name": "Billing Provider NPI",
+                    "type": [
+                        "Varchar",
+                        "nullable"
+                    ],
+                    "collate": "en_US_CI",
+                    "description": "{\n    \"family-name\" : \"All Claims\"\n}"
+                },
+                {
+                    "name": "Billing Provider Specialty Code & Desc",
+                    "type": [
+                        "Varchar",
+                        "nullable"
+                    ],
+                    "collate": "en_US_CI",
+                    "description": "{\n    \"family-name\" : \"All Claims\"\n}"
+                },
+                {
+                    "name": "Billing Provider Type Code & Desc",
+                    "type": [
+                        "Varchar",
+                        "nullable"
+                    ],
+                    "collate": "en_US_CI",
+                    "description": "{\n    \"family-name\" : \"All Claims\"\n}"
+                },
+                {
+                    "name": "Rendering Provider Medicaid ID",
+                    "type": [
+                        "Varchar",
+                        "nullable"
+                    ],
+                    "collate": "en_US_CI",
+                    "description": "{\n    \"family-name\" : \"All Claims\"\n}"
+                },
+                {
+                    "name": "Rendering Provider Name",
+                    "type": [
+                        "Varchar",
+                        "nullable"
+                    ],
+                    "collate": "en_US_CI",
+                    "description": "{\n    \"family-name\" : \"All Claims\"\n}"
+                },
+                {
+                    "name": "Rendering Provider Specialty Code & Desc",
+                    "type": [
+                        "Varchar",
+                        "nullable"
+                    ],
+                    "collate": "en_US_CI",
+                    "description": "{\n    \"family-name\" : \"All Claims\"\n}"
+                },
+                {
+                    "name": "Rendering Provider Type Code & Desc",
+                    "type": [
+                        "Varchar",
+                        "nullable"
+                    ],
+                    "collate": "en_US_CI",
+                    "description": "{\n    \"family-name\" : \"All Claims\"\n}"
+                },
+                {
+                    "name": "Referring Provider Medicaid ID",
+                    "type": [
+                        "Varchar",
+                        "nullable"
+                    ],
+                    "collate": "en_US_CI",
+                    "description": "{\n    \"family-name\" : \"All Claims\"\n}"
+                },
+                {
+                    "name": "Referring Provider Name",
+                    "type": [
+                        "Varchar",
+                        "nullable"
+                    ],
+                    "collate": "en_US_CI",
+                    "description": "{\n    \"family-name\" : \"All Claims\"\n}"
+                },
+                {
+                    "name": "Referring Provider Specialty Code & Desc",
+                    "type": [
+                        "Varchar",
+                        "nullable"
+                    ],
+                    "collate": "en_US_CI",
+                    "description": "{\n    \"family-name\" : \"All Claims\"\n}"
+                },
+                {
+                    "name": "Referring Provider Type Code & Desc",
+                    "type": [
+                        "Varchar",
+                        "nullable"
+                    ],
+                    "collate": "en_US_CI",
+                    "description": "{\n    \"family-name\" : \"All Claims\"\n}"
+                },
+                {
+                    "name": "Encounter Provider Plan ID",
+                    "type": [
+                        "Varchar",
+                        "nullable"
+                    ],
+                    "collate": "en_US_CI",
+                    "description": "{\n    \"family-name\" : \"All Claims\"\n}"
+                },
+                {
+                    "name": "Encounter Provider Plan ID Name",
+                    "type": [
+                        "Varchar",
+                        "nullable"
+                    ],
+                    "collate": "en_US_CI",
+                    "description": "{\n    \"family-name\" : \"All Claims\"\n}"
+                },
+                {
+                    "name": "Recipient Full Name",
+                    "type": [
+                        "Varchar",
+                        "nullable"
+                    ],
+                    "collate": "en_US_CI",
+                    "description": "{\n    \"family-name\" : \"All Claims\"\n}"
+                },
+                {
+                    "name": "Recipient ID",
+                    "type": [
+                        "Varchar",
+                        "nullable"
+                    ],
+                    "collate": "en_US_CI",
+                    "description": "{\n    \"family-name\" : \"All Claims\"\n}"
+                },
+                {
+                    "name": "Recipient Age",
+                    "type": [
+                        "BigInt",
+                        "nullable"
+                    ],
+                    "description": "{\n    \"family-name\" : \"All Claims\"\n}"
+                },
+                {
+                    "name": "Recipient Date of Birth",
+                    "type": [
+                        "Date",
+                        "nullable"
+                    ],
+                    "description": "{\n    \"family-name\" : \"All Claims\"\n}"
+                },
+                {
+                    "name": "Recipient Date of Death",
+                    "type": [
+                        "Date",
+                        "nullable"
+                    ],
+                    "description": "{\n    \"family-name\" : \"All Claims\"\n}"
+                },
+                {
+                    "name": "Current Recipient Street Address 1",
+                    "type": [
+                        "Varchar",
+                        "nullable"
+                    ],
+                    "collate": "en_US_CI",
+                    "description": "{\n    \"family-name\" : \"All Claims\"\n}"
+                },
+                {
+                    "name": "Current Recipient Street Address 2",
+                    "type": [
+                        "Varchar",
+                        "nullable"
+                    ],
+                    "collate": "en_US_CI",
+                    "description": "{\n    \"family-name\" : \"All Claims\"\n}"
+                },
+                {
+                    "name": "Recipient City",
+                    "type": [
+                        "Varchar",
+                        "nullable"
+                    ],
+                    "collate": "en_US_CI",
+                    "description": "{\n    \"family-name\" : \"All Claims\"\n}"
+                },
+                {
+                    "name": "Recipient Zip Code",
+                    "type": [
+                        "Varchar",
+                        "nullable"
+                    ],
+                    "collate": "en_US_CI",
+                    "description": "{\n    \"family-name\" : \"All Claims\"\n}"
+                },
+                {
+                    "name": "Recipient State",
+                    "type": [
+                        "Varchar",
+                        "nullable"
+                    ],
+                    "collate": "en_US_CI",
+                    "description": "{\n    \"family-name\" : \"All Claims\"\n}"
+                },
+                {
+                    "name": "Current Recipient County & Desc",
+                    "type": [
+                        "Varchar",
+                        "nullable"
+                    ],
+                    "collate": "en_US_CI",
+                    "description": "{\n    \"family-name\" : \"All Claims\"\n}"
+                },
+                {
+                    "name": "Contract Amount",
+                    "type": [
+                        "BigInt",
+                        "nullable"
+                    ],
+                    "description": "{\n    \"family-name\" : \"All Claims\"\n}"
+                },
+                {
+                    "name": "Detail Allowed Quantity",
+                    "type": [
+                        "BigInt",
+                        "nullable"
+                    ],
+                    "description": "{\n    \"family-name\" : \"All Claims\"\n}"
+                },
+                {
+                    "name": "Detail Billed Quantity",
+                    "type": [
+                        "BigInt",
+                        "nullable"
+                    ],
+                    "description": "{\n    \"family-name\" : \"All Claims\"\n}"
+                },
+                {
+                    "name": "Detail Reimbursed Amount",
+                    "type": [
+                        "Double",
+                        "nullable"
+                    ],
+                    "description": "{\n    \"family-name\" : \"All Claims\"\n}"
+                },
+                {
+                    "name": "Service Paid Amount",
+                    "type": [
+                        "Double",
+                        "nullable"
+                    ],
+                    "description": "{\n    \"family-name\" : \"All Claims\"\n}"
+                }
+            ],
+            "nullCounts": [
+                0,
+                0,
+                0,
+                25051,
+                0,
+                0,
+                0,
+                25051,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                25051,
+                0,
+                0,
+                0,
+                25051,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                24861,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                25051
+            ],
+            "partitionKey": 4294967295,
+            "partitionedRelation": false,
+            "type": "block"
+        }
+    ],
+    "externaltables": [],
+    "views": [],
+    "functions": [],
+    "types": [],
+    "sequences": []
+}
